@@ -1,0 +1,9 @@
+pwd
+lsblk
+ip a
+fdisk -l
+df -h
+free -m 
+echo "- - -" > /sys/class/scsi_host/host0/scan
+scp
+rsync
